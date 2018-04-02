@@ -1,0 +1,9 @@
+.page-header {
+    height: 25px;
+    width: 100%;
+    background-image: url(assets/images/pitch.jpeg);
+}
+.container {
+   background-color: silver;
+
+}

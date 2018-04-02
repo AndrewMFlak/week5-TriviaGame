@@ -1,0 +1,61 @@
+.timer {
+    background-color: cyan;
+    width: 10%;
+    height: auto;
+    border: 3px solid gray;
+
+}
+.container {
+    background-image: url(../images/soccerPitch.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.h1 {
+    clear: both;
+    overflow: auto;
+    color: yellow;
+    text-align: center;
+    font-size: 36px;
+}
+.score {
+    background-color: cyan;
+    border: 3px solid gray;
+    width: 15%;
+    height: auto;
+}
+.containerContent {
+    text-align: center;
+    /* background-image: url(../images/soccerBallBackground.jpg); */
+    background-color: cyan;
+    width: 66%; 
+    height: auto;
+    font-size: 28px;
+    padding: 30px;
+    border: 3px solid gray;
+    font-weight: bold;
+   
+}
+.questionContainer {
+    text-align: center;
+    /* background-image: url(../images/soccerBallBackground.jpg); */
+    background-color: cyan;
+    width: 66%; 
+    height: auto;
+    font-size: 28px;
+    padding: 30px;
+    border: 3px solid gray;
+    font-weight: bold;
+   
+}
+.buttons {
+    height: 20px;
+    width: 40px;
+    align-content: center;
+    margin: 3px;
+}
+.startButton {
+    height: 20px;
+    width: 40px;
+    align-content: center;
+    margin: 3px;
+}
